@@ -1,1 +1,6 @@
-# tolakocetkov276.github.io
+# Анатолий Валерьевич — портфолио
+
+Статический сайт для GitHub Pages. Проекты: Lumo и КОНТУР.
+
+Загрузите index.html и kontur.html в корень репозитория tolakocetkov276-byte.github.io.
+КОНТУР — учебный проект, реальная запись не выполняется.
